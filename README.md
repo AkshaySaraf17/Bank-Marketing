@@ -82,9 +82,6 @@ The models are evaluated using:
 - F1 Score
 - ROC-AUC
 
-## Contributing
-Feel free to open issues or submit pull requests if you have suggestions or improvements.
-
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
